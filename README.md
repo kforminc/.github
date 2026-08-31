@@ -25,13 +25,11 @@
 
 ## We build defense technology.
 
-Kform is the industrial platform for defense innovation. We unite multidisciplinary engineering, precision manufacturing, systems integration, and commercialization to turn hard requirements into mission-ready hardware—and validated prototypes into repeatable production.
+Kform is the industrial platform for defense innovation. We unite multidisciplinary engineering, precision manufacturing, systems integration, and commercialization to turn hard requirements into mission-ready hardware and validated prototypes into repeatable production.
 
 We work with defense startups, prime contractors, technology companies, and mission teams that need to move fast without losing rigor. From rugged electronics and secure communications to edge compute, sensing, and integrated mission systems, Kform exists to close the distance between **what is possible** and **what can be fielded**.
 
 Manufacturing has been at our core since 1980. Today, that foundation is wired directly into design, test, supply chain, and product strategy.
-
-> **We do not integrate what is available. We invent what is needed.**
 
 ## `THE KFORM MANIFEST // 01`
 
@@ -39,8 +37,8 @@ Manufacturing has been at our core since 1980. Today, that foundation is wired d
 THE MISSION IS THE SPEC.
 
 HARDWARE IS TRUTH.
-THE PROTOTYPE IS EVIDENCE—NOT VICTORY.
-MANUFACTURING STARTS AT ARCHITECTURE—NOT AFTER DESIGN.
+THE PROTOTYPE IS EVIDENCE. NOT VICTORY.
+MANUFACTURING STARTS AT ARCHITECTURE. NOT AFTER DESIGN.
 
 INTEROPERABILITY BEATS ISOLATION.
 EVIDENCE BEATS ASSUMPTION.
@@ -77,7 +75,7 @@ status: MISSION-READY IS A MOVING TARGET. KEEP THE LOOP CLOSED.
 | Fast learning against real requirements | Supply-chain hardening and production execution |
 | Flexible support for changing mission needs | Traceable change from pilot builds through ramp |
 
-**BUILD** collapses the distance between requirement and working system. **SCALE** turns a working system into a manufacturing system—predictable, auditable, and ready for demand.
+**BUILD** collapses the distance between requirement and working system. **SCALE** turns a working system into a predictable, auditable manufacturing system that is ready for demand.
 
 ## Full-stack means physical.
 
